@@ -4,4 +4,11 @@
 
 ---
 
-## silde
+## slide
+
+한글 사용
+
+₩$$ a + b = x$$`
+
+is it ok?
+
