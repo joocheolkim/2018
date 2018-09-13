@@ -1,6 +1,6 @@
 # Gateway
 
-[track #1] (https://gitpitch.com/joocheolkim/2018/master?p=presentation)
+[track #1] (https://gitpitch.com/joocheolkim/2018/master?p=presentations)
 
 ---
 
